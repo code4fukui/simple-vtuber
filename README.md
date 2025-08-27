@@ -1,8 +1,7 @@
-# okuchitone
+# simple-vtuber
  
-https://code4fukui.github.io/okuchitone/
+https://code4fukui.github.io/simple-vtuber/
 
 ## reference
 
 - [MediaPipe test](https://code4fukui.github.io/mediapipe-test/)
-- [smaphotone](https://code4fukui.github.io/smaphotone/)
